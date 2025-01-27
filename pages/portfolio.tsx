@@ -17,7 +17,13 @@ function Portfolio() {
               Portfolio
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in.
+              This is a simple portfolio page for the portfolio website built
+              with Next.js and TypeScript. This page is statically generated.
+              This means that the page is generated at build time and will be
+              reused for each request. This is great for SEO and performance.
+              This page is also a part of the portfolio website that I built to
+              showcase my projects and skills. You can check the source code on
+              my GitHub.
             </p>
 
             <div className="portfolio-wrapper">

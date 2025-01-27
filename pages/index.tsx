@@ -15,11 +15,15 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-test-id="pageTitle" className="title">
-              Halo, saya Lutfhi Ramadhan
+              Hello, My name is Belal Allam , I'm a freelance web developer,
+              photographer, user interface designer.
             </h1>
             <p className="description">
-              Saya seorang pekerja lepas pengembang web, fotograper, desainer
-              antarmuka pengguna, dan penulis.
+              I design and develop services for customers of all sizes,
+              specializing in creating stylish, modern websites, web services
+              and online stores. My passion is to design digital user
+              experiences through the bold interface and meaningful
+              interactions.
             </p>
 
             <Link href="/contact" className="cta">
